@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MainPageController pushController:]:MainPageController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sec.titleName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NPShopListController tableView:cellForRowAtIndexPath:]:NPShopListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmpDic">
+            </PersistentString>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NPTheShopsNearController tableView:cellForRowAtIndexPath:]:NPTheShopsNearController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

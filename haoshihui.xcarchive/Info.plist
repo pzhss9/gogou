@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/haoshihui.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>NP.haoshihui</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>IconPaths</key>
+		<array>
+			<string>Applications/haoshihui.app/AppIcon40x40@2x.png</string>
+		</array>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Wei Feng Hou (J4A46KMKH8)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2015-03-21T02:43:25Z</date>
+	<key>Name</key>
+	<string>haoshihui</string>
+	<key>SchemeName</key>
+	<string>haoshihui</string>
+</dict>
+</plist>
